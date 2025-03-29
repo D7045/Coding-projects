@@ -3,17 +3,17 @@
 Task Tracker is a simple command-line tool to manage your tasks efficiently.  
 It allows you to **add, list, update, and delete tasks**, storing them in a JSON file.
 
-## 🌐 Project URL  
+##  Project URL  
 🔗 [GitHub Repository](https://github.com/D7045/Coding-projects/tree/master/task_tracker)  
 
-## 🚀 Features
+##  Features
 - **Add tasks** with a description
 - **List all tasks** with timestamps
 - **Update tasks** (change description)
 - **Delete tasks**
 - **Uses JSON file** for data storage
 
-## 🛠️ Usage
+##  Usage
 ```sh
 task_tracker add "New Task"
 task_tracker list
